@@ -34,6 +34,7 @@ def game_hash
     :points => 17,
     :rebounts => 19,
     :assists => 10,
+    :steals => 3
     :blocks => 12,
     :slam_dunks => 7
   },
