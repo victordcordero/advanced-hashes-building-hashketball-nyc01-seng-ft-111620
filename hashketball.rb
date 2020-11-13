@@ -17,13 +17,13 @@ def game_hash
       },
       {
       :player_names => ["Reggie Evans"],
-      :number => 0,
-      :shoe => 16,
-      :points => 22,
+      :number => 30,
+      :shoe => 14,
+      :points => 12,
       :rebounts => 12,
       :assists => 12,
-      :blocks => 3,
-      :slam_dunks => 1
+      :blocks => 12,
+      :slam_dunks => 7
     },
         ]
 
