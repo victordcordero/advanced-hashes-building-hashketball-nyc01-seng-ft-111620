@@ -106,7 +106,3 @@ game_hash = {
   }
 
 end
-
-name = "Brooke Lopez"
-home_players = game_hash[:home][:players]
-team = "Charlotte Hornets"
