@@ -12,7 +12,7 @@ def game_hash
         :points => 22,
         :rebounts => 12,
         :assists => 12,
-        :steals => 3
+        :steals => 3,
         :blocks => 1,
         :slam_dunks => 1
       },
@@ -23,7 +23,7 @@ def game_hash
       :points => 12,
       :rebounts => 12,
       :assists => 12,
-      :steals => 3
+      :steals => 12,
       :blocks => 12,
       :slam_dunks => 7
     },
@@ -34,10 +34,21 @@ def game_hash
     :points => 17,
     :rebounts => 19,
     :assists => 10,
-    :steals => 3
-    :blocks => 12,
-    :slam_dunks => 7
+    :steals => 3,
+    :blocks => 1,
+    :slam_dunks => 5
   },
+  {
+  :player_names => ["Brook Lopez"],
+  :number => 11,
+  :shoe => 17,
+  :points => 17,
+  :rebounts => 19,
+  :assists => 10,
+  :steals => 3,
+  :blocks => 1,
+  :slam_dunks => 5
+},
         ]
 
     }
