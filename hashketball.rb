@@ -107,4 +107,4 @@ game_hash = {
 
 end
 
-game_hash[:away][:players]
+game_hash[:away][:"Brendan Haywood"]
