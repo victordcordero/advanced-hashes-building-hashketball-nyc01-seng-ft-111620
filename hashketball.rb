@@ -105,4 +105,6 @@ game_hash = {
     }
   }
 
-end 
+end
+
+game_hash[:away][:players]
