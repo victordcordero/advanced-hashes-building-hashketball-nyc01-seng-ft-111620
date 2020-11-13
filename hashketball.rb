@@ -1,6 +1,4 @@
 # Write your code here!
-hash = {:key => value}
-
 def game_hash
 game_hash = {
     :home => {
