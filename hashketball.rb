@@ -25,6 +25,16 @@ def game_hash
       :blocks => 12,
       :slam_dunks => 7
     },
+    {
+    :player_names => ["Reggie Evans"],
+    :number => 30,
+    :shoe => 14,
+    :points => 12,
+    :rebounts => 12,
+    :assists => 12,
+    :blocks => 12,
+    :slam_dunks => 7
+  },
         ]
 
     }
