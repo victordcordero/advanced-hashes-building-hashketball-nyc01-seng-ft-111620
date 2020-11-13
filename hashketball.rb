@@ -7,13 +7,13 @@ def game_hash
       :players => [
         {
         :player_names => ["Alan Anderson"],
-        :number => "",
-        :shoe => "",
-        :points => "",
-        :rebounts => "",
-        :assists => "",
-        :blocks => "",
-        :slam_dunks => ""
+        :number => 0,
+        :shoe => 16,
+        :points => 22,
+        :rebounts => 12,
+        :assists => 12,
+        :blocks => 3,
+        :slam_dunks => 1
         }
         ]
 
