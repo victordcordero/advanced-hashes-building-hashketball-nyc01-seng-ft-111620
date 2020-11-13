@@ -50,7 +50,7 @@ def game_hash
   :slam_dunks => 5
 },
 {
-:player_names => ["Mason Plumlee"],
+:player_names => ["Jason Terry"],
 :number => 1,
 :shoe => 19,
 :points => 26,
